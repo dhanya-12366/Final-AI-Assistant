@@ -146,19 +146,29 @@ streamlit run src/final_chatbot.py
 ## Screenshots
 
 ### Home Page
-![Home](https://chatgpt.com/c/screenshots/home.png)
+![Home](screenshots/home.png)
+
+File: [screenshots/home.png](screenshots/home.png)
 
 ### Medical Assistant
-![Medical](https://chatgpt.com/c/screenshots/medical.png)
+![Medical](screenshots/medical.png)
+
+File: [screenshots/medical.png](screenshots/medical.png)
 
 ### Domain Expert
-![Research](https://chatgpt.com/c/screenshots/domain.png)
+![Research](screenshots/domain.png)
+
+File: [screenshots/domain.png](screenshots/domain.png)
 
 ### PDF QA
-![PDF](https://chatgpt.com/c/screenshots/pdf.png)
+![PDF](screenshots/pdf.png)
+
+File: [screenshots/pdf.png](screenshots/pdf.png)
 
 ### Image Analysis
-![Image](https://chatgpt.com/c/screenshots/image.png)
+![Image](screenshots/image.png)
+
+File: [screenshots/image.png](screenshots/image.png)
 
 ## Results
 
@@ -196,4 +206,4 @@ Final AI Assistant is a comprehensive AI project demonstrating practical impleme
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](C:\Users\DHANYASHRI\OneDrive\Documents\Downloads\GEN---AI-course-main\GEN---AI-course\LLM\Final_AI_Assistant\LICENSE) file for details.

@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+google-generativeai
+langdetect
+textblob
+Pillow
+pypdf
+faiss-cpu
+numpy
+sentence-transformers

@@ -146,29 +146,29 @@ streamlit run src/final_chatbot.py
 ## Screenshots
 
 ### Home Page
-![Home](screenshots/home.png)
+![Home](home.png)
 
-File: [screenshots/home.png](screenshots/home.png)
+File: [home.png](home.png)
 
 ### Medical Assistant
-![Medical](screenshots/medical.png)
+![Medical](medical.png)
 
-File: [screenshots/medical.png](screenshots/medical.png)
+File: [medical.png](medical.png)
 
 ### Domain Expert
-![Research](screenshots/domain.png)
+![Research](domain.png)
 
-File: [screenshots/domain.png](screenshots/domain.png)
+File: [domain.png](domain.png)
 
 ### PDF QA
-![PDF](screenshots/pdf.png)
+![PDF](pdf.png)
 
-File: [screenshots/pdf.png](screenshots/pdf.png)
+File: [pdf.png](pdf.png)
 
 ### Image Analysis
-![Image](screenshots/image.png)
+![Image](image.png)
 
-File: [screenshots/image.png](screenshots/image.png)
+File: [image.png](image.png)
 
 ## Results
 
